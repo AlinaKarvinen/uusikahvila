@@ -6,7 +6,11 @@ body {
 }
 h1 {
 	font-size: 50px;
-}	
+}
+h3 {
+	font-size: 30px;
+	color: white;
+}
 .topnav {
   overflow: hidden;
   background-color: #333;
