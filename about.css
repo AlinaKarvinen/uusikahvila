@@ -1,6 +1,5 @@
 body {
 	background-color: beige;
-	padding-left: 35px;
 	}
  * {
 	font-family: Courier New;
@@ -16,6 +15,7 @@ h1 {
 .topnav a {
   float: left;
   color: #f2f2f2;
+  text-color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
